@@ -18,7 +18,7 @@
 
 ## Authors
 
-👤 **Adaobi Okoye**
+👤 **Adaobi Vivian Okoye**
 
 - GitHub: [@githubhandle](https://github.com/adanzeakonobi)
 - Twitter: [@twitterhandle](https://twitter.com/Adaebubemmuta)
