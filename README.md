@@ -18,7 +18,7 @@
 
 ## Authors
 
-👤 **Abreham Awoke**
+👤 **Adaobi Okoye**
 
 - GitHub: [@githubhandle](https://github.com/adanzeakonobi)
 - Twitter: [@twitterhandle](https://twitter.com/Adaebubemmuta)
